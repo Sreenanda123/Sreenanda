@@ -1,6 +1,6 @@
 ## Hi, I'm Sreenanda
 
-Computer Science Student (Artificial Intelligence and Data Science)
+Computer Science and Engineering Student (Artificial Intelligence and Data Science)
 
 Learning Python, C Programming, DBMS and GitHub
 
